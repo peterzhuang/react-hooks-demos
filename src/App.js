@@ -16,7 +16,7 @@ class App extends Component {
       <div className="App">
         <CounterClass />
         <CounterHooks />
-
+        <Toggler />
         <MyToggler />
         <SimpleFormClass />
         <SimpleFormHooks />
